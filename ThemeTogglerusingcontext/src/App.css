@@ -1,0 +1,18 @@
+/* App.css */
+
+/* Light theme styles */
+
+.light {
+    background-color: #ffffff !important;
+    color: #333333 !important;
+  }
+ 
+  /* Dark theme styles */
+  
+  .dark {
+    background-color: #333333 !important;
+    color: #ffffff !important;
+  }
+  
+ 
+  
